@@ -1,0 +1,1 @@
+# symbol-widget-app
